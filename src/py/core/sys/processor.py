@@ -2,4 +2,3 @@
 
 class Processor:
     def __init__():
-        self.reg = Registers()
